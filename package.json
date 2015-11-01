@@ -1,0 +1,21 @@
+{
+  "name": "herokudemo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yconoclast/herokudemo.git"
+  },
+  "author": "Jose Tavares <josetavares00@gmail.com> (http://yconoclast.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yconoclast/herokudemo/issues"
+  },
+  "homepage": "https://github.com/yconoclast/herokudemo#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
